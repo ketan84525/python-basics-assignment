@@ -1,0 +1,2 @@
+Hello! This is my first file handling program in Python.
+Python makes file operations easy.
